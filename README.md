@@ -1,7 +1,6 @@
 # 概要
 
 Svelte使用時のmarkuplintのテストリポジトリ。  
-OS：windows(改行コードがCRLF)
 
 ## vite.config.js
 
